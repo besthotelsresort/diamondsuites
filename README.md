@@ -1,0 +1,2 @@
+# diamondsuites
+Static site: diamondsuites
